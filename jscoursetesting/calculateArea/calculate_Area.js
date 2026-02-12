@@ -7,5 +7,5 @@ function calculateArea(){
 
     let area = length * width;
 
-    document.getElementById('result').innetText = `The area of the rectangale : ${area}`;
+    document.getElementById('result').innerText = `The area of the rectangale : ${area}`;
 }
